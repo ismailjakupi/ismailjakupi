@@ -1,16 +1,25 @@
-## Hi there 👋
+## About Me
+🎓 18 y/o student, currently studying Computer Science at a highschool level
 
-<!--
-**ismailjakupi/ismailjakupi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Interested in Cybersecurity, System Design, AI
 
-Here are some ideas to get you started:
+🚀 Currently working on: Vigilia, a productivity tracker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📖 Learning: System Design, Statistics
+
+##⚡ Skills & Tools
+Languages: Java, JavaScript, C++
+
+Tools & Frameworks: Git, Linux, Qt
+
+Areas of Interest: Cybersecurity, Algorithms, System Design
+
+##📌 Projects
+🔑 Password Manager
+ – built in Qt, focusing on security and usability
+
+👁 Vigilia
+ - productivity tracker, with analytics and reminders
+
+🔊 Lull
+ - a lightweight, still in-development audio background player, fully local
