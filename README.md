@@ -15,11 +15,8 @@ Tools & Frameworks: Git, Linux, Qt
 Areas of Interest: Cybersecurity, Algorithms, System Design
 
 ## Projects
-🔑 Password Manager
- – built in Qt, focusing on security and usability
+🔑 Password Manager – built in Qt, focusing on security and usability
 
-👁 Vigilia
- - productivity tracker, with analytics and reminders
+👁 Vigilia - productivity tracker, with analytics and reminders
 
-🔊 Lull
- - a lightweight, still in-development audio background player, fully local
+🔊 Lull - a lightweight, still in-development audio background player, fully local
