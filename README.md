@@ -7,14 +7,14 @@
 
 📖 Learning: System Design, Statistics
 
-##⚡ Skills & Tools
+## Skills & Tools
 Languages: Java, JavaScript, C++
 
 Tools & Frameworks: Git, Linux, Qt
 
 Areas of Interest: Cybersecurity, Algorithms, System Design
 
-##📌 Projects
+## Projects
 🔑 Password Manager
  – built in Qt, focusing on security and usability
 
