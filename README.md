@@ -20,3 +20,8 @@ Areas of Interest: Cybersecurity, Algorithms, System Design
 👁 Vigilia - productivity tracker, with analytics and reminders
 
 🔊 Lull - a lightweight, still in-development audio background player, fully local
+
+## Goals for This Month
+- ✅ Finish **Vigilia's analysis algorithm** (productivity tracker)  
+- 🔄 Optimize & re-work **Lull**, a lightweight audio player  
+- 📦 (Stretch goal) Build an **installer** for Lull  
