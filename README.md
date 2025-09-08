@@ -7,21 +7,5 @@
 
 📖 Learning: System Design, Statistics
 
-## Skills & Tools
-Languages: Java, JavaScript, C++
-
-Tools & Frameworks: Git, Linux, Qt
-
-Areas of Interest: Cybersecurity, Algorithms, System Design
-
-## Projects
-🔑 Password Manager – built in Qt, focusing on security and usability
-
-👁 Vigilia - productivity tracker, with analytics and reminders
-
-🔊 Lull - a lightweight, still in-development audio background player, fully local
-
-## Goals for This Month
-- ✅ Finish **Vigilia's analysis algorithm** (productivity tracker)  
-- 🔄 Optimize & re-work **Lull**, a lightweight audio player  
-- 📦 (Stretch goal) Build an **installer** for Lull  
+For more information:
+https://ismailjakupi.github.io/Portfolio/
